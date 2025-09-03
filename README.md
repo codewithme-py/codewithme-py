@@ -39,7 +39,7 @@
 <hr/>
 
 ### Achievements 🏆
-#### - Telegram Bot for Homework Status Tracking
+#### - [Telegram Bot for Homework Status Tracking](https://github.com/codewithme-py/homework-bot)
 - Integration with Yandex.Practicum REST API
 - Comprehensive exception and error handling
 - Automated Telegram notification system
@@ -55,7 +55,7 @@
 
 <hr/>
 
-#### - Blog Platform "Blogicum"
+#### - [Blog Platform "Blogicum"](https://github.com/codewithme-py/django-sprint4)
 - User registration and authentication system
 - CRUD operations for posts and comments
 - Django admin panel with extended functionality
@@ -71,7 +71,7 @@
 
 <hr/>
 
-#### - Classic Snake Game
+#### - [Classic Snake Game](https://github.com/codewithme-py/the_snake)
 - PyGame-based game engine
 - Object-oriented architecture
 - Customizable game parameters (speed, apple count)
