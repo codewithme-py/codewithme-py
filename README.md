@@ -9,7 +9,7 @@
 </div>
 <hr/>
 
-### Tech Stack: 🛠️
+### Tech Stack:️ <img src="https://cdn-icons-png.flaticon.com/512/4091/4091514.png" width="33" height="33" alt="Server Icon">
 
 <div align="center" style="background-color:#262738; border-radius:12px; padding:20px; display:inline-block; border: 2px solid white;">
   <h5>Backend</h5>
@@ -44,14 +44,14 @@
 
 <hr/>
 
-### GitHub activity 📊
+### GitHub activity <img src="https://cdn-icons-png.flaticon.com/512/4397/4397570.png" width="33" height="33" alt="Graph Icon">
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=codewithme-py&show_icons=true&theme=tokyonight" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithme-py&theme=tokyonight" />
 </p>
 <hr/>
 
-### Achievements 🏆
+### Jobs & Pets: <img src="https://cdn-icons-png.flaticon.com/512/4397/4397496.png" width="33" height="33" alt="Cloud Data Icon">
 #### - [Telegram Bot for Homework Status Tracking](https://github.com/codewithme-py/homework-bot)
 - Integration with Yandex.Practicum REST API
 - Comprehensive exception and error handling
