@@ -55,48 +55,14 @@
 </p>
 <hr/>
 
-### Jobs & Pets: <img src="https://cdn-icons-png.flaticon.com/512/4397/4397496.png" width="33" height="33" alt="Cloud Data Icon">
-#### - [Telegram Bot for Homework Status Tracking](https://github.com/codewithme-py/homework-bot)
-- Integration with Yandex.Practicum REST API
-- Comprehensive exception and error handling
-- Automated Telegram notification system
-- Detailed logging of all operations
-- Full test coverage of critical functionality
+### Jobs & PetProjects: <img src="https://cdn-icons-png.flaticon.com/512/4397/4397496.png" width="33" height="33" alt="Cloud Data Icon">
 
-| **Backend** | **Tools** | **Testing** |
-|-------------|-----------|-------------|
-| Python 3.8+ | python-telegram-bot | PyTest |
-| REST API | requests | UnitTest |
-| DotEnv | logging | Flake8 |
-| JSON |  |  |
+<div align="center">
 
-<hr/>
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [Homework Bot](https://github.com/codewithme-py/homework-bot) | Telegram bot for homework tracking | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-FF6B6B?logo=json&logoColor=white) |
+| [Blogicum](https://github.com/codewithme-py/django-sprint4) | Django blog platform with user auth | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) |
+| [Snake Game](https://github.com/codewithme-py/the_snake) | Classic game with PyGame | ![PyGame](https://img.shields.io/badge/PyGame-FF6B6B?logo=python&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-00B894?logo=object&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
 
-#### - [Blog Platform "Blogicum"](https://github.com/codewithme-py/django-sprint4)
-- User registration and authentication system
-- CRUD operations for posts and comments
-- Django admin panel with extended functionality
-- Class-Based Views for all components
-- Full test coverage of critical functions
-
-| **Backend** | **Frontend** | **Database** | **Tools** |
-|-------------|--------------|--------------|-----------|
-| Django 4.0+ | HTML5 | SQLite | PyTest |
-| Django REST | CSS3 | Django ORM | Flake8 |
-| Python 3.8+ | Bootstrap | Migrations |  |
-| CBV/FBV |  | SQL Queries |  |
-
-<hr/>
-
-#### - [Classic Snake Game](https://github.com/codewithme-py/the_snake)
-- PyGame-based game engine
-- Object-oriented architecture
-- Customizable game parameters (speed, apple count)
-- Minimalistic UI/UX design
-- Complete test coverage
-
-| **Development** | **Paradigms** | **Tools** |
-|-----------------|---------------|-----------|
-| Python 3.8+ | OOP | PyGame |
-| PyGame |  | PyTest |
-|  |  | Flake8 |
+</div>
