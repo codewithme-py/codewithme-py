@@ -9,7 +9,7 @@
 </div>
 <hr/>
 
-### Tech Stack:️ <img src="https://cdn-icons-png.flaticon.com/512/4091/4091514.png" width="33" height="33" alt="Server Icon">
+### <img src="https://cdn-icons-png.flaticon.com/512/4091/4091514.png" width="33" height="33" alt="Server Icon"> Tech Stack:️
 
 <div align="center" style="background-color:#262738; border-radius:12px; padding:20px; display:inline-block; border: 2px solid white;">
   <h5>Backend</h5>
@@ -28,9 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" title="git" width="50" height="50" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" title="github" width="50" height="50" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original-wordmark.svg" title="githubactions" width="50" height="50" />&nbsp;
-  
-            
-          
 </div>
 <div align="center" style="background-color:#262738; border-radius:12px; padding:20px; display:inline-block; border: 2px solid white;">
   <h5>Development Environment</h5>
@@ -48,14 +45,15 @@
 
 <hr/>
 
-### GitHub activity <img src="https://cdn-icons-png.flaticon.com/512/4397/4397570.png" width="33" height="33" alt="Graph Icon">
+### <img src="https://cdn-icons-png.flaticon.com/512/4397/4397570.png" width="33" height="33" alt="Graph Icon"> GitHub Analytics
+
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=codewithme-py&show_icons=true&theme=tokyonight" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithme-py&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithme-py&layout=compact&theme=tokyonight" />
 </p>
-<hr/>
 
-### Jobs & PetProjects: <img src="https://cdn-icons-png.flaticon.com/512/4397/4397496.png" width="33" height="33" alt="Cloud Data Icon">
+### <img src="https://cdn-icons-png.flaticon.com/512/4397/4397496.png" width="33" height="33" alt="Cloud Data Icon"> Jobs & PetProjects:
 
 <div align="center">
 
