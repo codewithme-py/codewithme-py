@@ -18,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original-wordmark.svg" title="djangorest" width="50" height="50" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite" width="50" height="50" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" title="postgre" width="50" height="50" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain.svg" title="fastapi" width="50" height="50" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain-wordmark.svg" title="fastapi" width="50" height="50" />&nbsp;
 </div>
 <div align="center" style="background-color:#262738; border-radius:12px; padding:20px; display:inline-block; border: 2px solid white;">
   <h5>DevOps & Tools</h5>
