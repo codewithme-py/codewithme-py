@@ -13,12 +13,16 @@
 
 <div align="center" style="background-color:#262738; border-radius:12px; padding:20px; display:inline-block; border: 2px solid white;">
   <h5>Backend</h5>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title="python" width="50" height="50" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" title="django" width="50" height="50" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original-wordmark.svg" title="djangorest" width="50" height="50" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite" width="50" height="50" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" title="postgre" width="50" height="50" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain-wordmark.svg" title="fastapi" width="50" height="50" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title="Python" width="50" height="50" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" title="Django" width="50" height="50" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original-wordmark.svg" title="DjangoRest" width="50" height="50" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" title="Flask" width="50" height="50" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain-wordmark.svg" title="Fastapi" width="50" height="50" />&nbsp;
+</div>
+<div align="center" style="background-color:#262738; border-radius:12px; padding:20px; display:inline-block; border: 2px solid white;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite3" width="50" height="50" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" title="Postgre" width="50" height="50" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" width="50" height="50" />&nbsp;
 </div>
 <div align="center" style="background-color:#262738; border-radius:12px; padding:20px; display:inline-block; border: 2px solid white;">
   <h5>DevOps & Tools</h5>
@@ -38,7 +42,6 @@
 <div align="center" style="background-color:#262738; border-radius:12px; padding:20px; display:inline-block; border: 2px solid white;">
   <h5>Frontend</h5>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" width="50" height="50" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" title="photoshop" width="50" height="50" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" title="html5" width="50" height="50" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" title="css3" width="50" height="50" />&nbsp;
 </div>
