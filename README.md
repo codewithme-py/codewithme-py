@@ -7,11 +7,11 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram">
   </a>
 </div>
-<div align="center">
+<!-- <div align="center">
   <a href="https://www.codewars.com/users/codewithme-py">
     <img src="https://www.codewars.com/users/codewithme-py/badges/large" alt="codewars">
   </a>
-</div>
+</div>-->
 <hr/>
 
 ### <img src="https://cdn-icons-png.flaticon.com/512/4091/4091514.png" width="33" height="33" alt="Server Icon"> Tech Stack:️
