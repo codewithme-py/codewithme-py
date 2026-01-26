@@ -55,7 +55,7 @@
 
 <hr/>
 
-### <img src="https://cdn-icons-png.flaticon.com/512/4397/4397570.png" width="33" height="33" alt="Graph Icon"> GitHub Analytics
+### <img src="https://cdn-icons-png.flaticon.com/512/4397/4397570.png" width="33" height="33" alt="Graph Icon"> GitHub & LeetCode Analytics
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=codewithme-py&show_icons=true&theme=tokyonight" />
@@ -63,7 +63,13 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithme-py&layout=compact&theme=tokyonight" />
 </p>
 
-### <img src="https://cdn-icons-png.flaticon.com/512/4397/4397496.png" width="33" height="33" alt="Cloud Data Icon"> Jobs & PetProjects:
+<p align="center">
+  <a href="https://github.com/codewithme-py/LeetCode_solutions">
+    <img src="https://leetcard.jacoblin.cool/codewithme-py?theme=catppuccinMocha&font=Rubik&ext=heatmap" />
+  </a>
+</p>
+
+### <img src="https://cdn-icons-png.flaticon.com/512/3382/3382772.png" width="35" height="35" alt="Share Icon"> Jobs & Pet Projects
 
 <div align="center">
 
