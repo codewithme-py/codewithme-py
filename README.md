@@ -17,41 +17,69 @@
 
 ### <img src="https://cdn-icons-png.flaticon.com/512/4091/4091514.png" width="33" height="33" alt="Server Icon"> Tech Stack:️
 
-<div align="center" style="background-color:#262738; border-radius:12px; padding:20px; display:inline-block; border: 2px solid white;">
-  <h5>Backend</h5>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title="Python" width="50" height="50" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" title="Django" width="50" height="50" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original-wordmark.svg" title="DjangoRest" width="50" height="50" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" title="Flask" width="50" height="50" />&nbsp;
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain-wordmark.svg" title="Fastapi" width="50" height="50" />&nbsp; -->
+<div align="center" style="background-color:#262738; border-radius:12px; padding:20px; display:inline-block; border: 2px solid white; margin:10px;">
+  <h5>Core</h5>
+  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white" height="30" />&nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-✓-009688?logo=fastapi&logoColor=white" height="30" />&nbsp;
+  <img src="https://img.shields.io/badge/Uvicorn-✓-646464?logo=uvicorn&logoColor=white" height="30" />&nbsp;
+  <img src="https://img.shields.io/badge/Pydantic-v2-232323?logo=pydantic&logoColor=white" height="30" />&nbsp;
 </div>
-<div align="center" style="background-color:#262738; border-radius:12px; padding:20px; display:inline-block; border: 2px solid white;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite3" width="50" height="50" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" title="Postgre" width="50" height="50" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" width="50" height="50" />&nbsp;
+
+<div align="center" style="background-color:#262738; border-radius:12px; padding:20px; display:inline-block; border: 2px solid white; margin:10px;">
+  <h5>Environment</h5>
+  <img src="https://img.shields.io/badge/Linux-✓-000000?logo=linux&logoColor=white" height="30" />&nbsp;
+  <img src="https://img.shields.io/badge/Git-✓-F05032?logo=git&logoColor=white" height="30" />&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-✓-181717?logo=github&logoColor=white" height="30" />&nbsp;
+  <img src="https://img.shields.io/badge/GitHub_Actions-✓-2088FF?logo=githubactions&logoColor=white" height="30" />&nbsp;
 </div>
-<div align="center" style="background-color:#262738; border-radius:12px; padding:20px; display:inline-block; border: 2px solid white;">
-  <h5>DevOps & Tools</h5>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" title="docker" width="50" height="50" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="linux" width="50" height="50" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" title="nginx" width="50" height="50" />&nbsp;
+
+<div align="center" style="background-color:#262738; border-radius:12px; padding:20px; display:inline-block; border: 2px solid white; margin:10px;">
+  <h5>Database</h5>
+  <img src="https://img.shields.io/badge/PostgreSQL-✓-4169E1?logo=postgresql&logoColor=white" height="30" />&nbsp;
+  <img src="https://img.shields.io/badge/SQLAlchemy-async-000000?logo=sqlalchemy&logoColor=white" height="30" />&nbsp;
+  <img src="https://img.shields.io/badge/Alembic-✓-000000?logo=alembic&logoColor=white" height="30" />&nbsp;
+  <img src="https://img.shields.io/badge/asyncpg-✓-4169E1?&logoColor=white" height="30" />&nbsp;
 </div>
-<div align="center" style="background-color:#262738; border-radius:12px; padding:20px; display:inline-block; border: 2px solid white;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" title="git" width="50" height="50" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" title="github" width="50" height="50" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original-wordmark.svg" title="githubactions" width="50" height="50" />&nbsp;
+
+<div align="center" style="background-color:#262738; border-radius:12px; padding:20px; display:inline-block; border: 2px solid white; margin:10px;">
+  <h5>Cache</h5>
+  <img src="https://img.shields.io/badge/Redis-✓-DC382D?logo=redis&logoColor=white" height="30" />&nbsp;
+  <img src="https://img.shields.io/badge/Lua-scripts-2C3E50?logo=lua&logoColor=white" height="30" />&nbsp;
 </div>
-<div align="center" style="background-color:#262738; border-radius:12px; padding:20px; display:inline-block; border: 2px solid white;">
-  <h5>Development Environment</h5>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" title="pycharm" width="50" height="50" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" width="50" height="50" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" title="postman" width="50" height="50" />&nbsp;
+
+<div align="center" style="background-color:#262738; border-radius:12px; padding:20px; display:inline-block; border: 2px solid white; margin:10px;">
+  <h5>Auth</h5>
+  <img src="https://img.shields.io/badge/passlib-bcrypt-000000" height="30" />&nbsp;
+  <img src="https://img.shields.io/badge/JWT-✓-000000?logo=jsonwebtokens&logoColor=white" height="30" />&nbsp;
 </div>
-<div align="center" style="background-color:#262738; border-radius:12px; padding:20px; display:inline-block; border: 2px solid white;">
-  <h5>Frontend</h5>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" width="50" height="50" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" title="html5" width="50" height="50" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" title="css3" width="50" height="50" />&nbsp;
+
+<div align="center" style="background-color:#262738; border-radius:12px; padding:20px; display:inline-block; border: 2px solid white; margin:10px;">
+  <h5>Observability</h5>
+  <img src="https://img.shields.io/badge/Prometheus-✓-E6522C?logo=prometheus&logoColor=white" height="30" />&nbsp;
+  <img src="https://img.shields.io/badge/structlog-✓-000000" height="30" />&nbsp;
+</div>
+
+<div align="center" style="background-color:#262738; border-radius:12px; padding:20px; display:inline-block; border: 2px solid white; margin:10px;">
+  <h5>Testing</h5>
+  <img src="https://img.shields.io/badge/pytest-✓-3776AB?logo=pytest&logoColor=white" height="30" />&nbsp;
+  <img src="https://img.shields.io/badge/httpx-✓-000000" height="30" />&nbsp;
+  <img src="https://img.shields.io/badge/Locust-✓-2C3E50?logo=locust&logoColor=white" height="30" />&nbsp;
+</div>
+
+<div align="center" style="background-color:#262738; border-radius:12px; padding:20px; display:inline-block; border: 2px solid white; margin:10px;">
+  <h5>Tooling</h5>
+  <img src="https://img.shields.io/badge/Ruff-✓-000000?logo=ruff&logoColor=white" height="30" />&nbsp;
+  <img src="https://img.shields.io/badge/mypy-✓-000000?logo=mypy&logoColor=white" height="30" />&nbsp;
+  <img src="https://img.shields.io/badge/pre--commit-✓-000000?logo=pre-commit&logoColor=white" height="30" />&nbsp;
+  <img src="https://img.shields.io/badge/uv-✓-000000?logo=uv&logoColor=white" height="30" />&nbsp;
+</div>
+
+<div align="center" style="background-color:#262738; border-radius:12px; padding:20px; display:inline-block; border: 2px solid white; margin:10px;">
+  <h5>Infra</h5>
+  <img src="https://img.shields.io/badge/Docker-✓-2496ED?logo=docker&logoColor=white" height="30" />&nbsp;
+  <img src="https://img.shields.io/badge/docker--compose-✓-0DB7ED?logo=docker&logoColor=white" height="30" />&nbsp;
+  <img src="https://img.shields.io/badge/nginx-✓-009639?logo=nginx&logoColor=white" height="30" />&nbsp;
+  <img src="https://img.shields.io/badge/MinIO-✓-000000?logo=minio&logoColor=white" height="30" />&nbsp;
 </div>
 
 <hr/>
