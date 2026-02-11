@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <h1>Hello 🌍, I'm Alex</h1>
   <h3>Junior Python Backend developer from Russia</h3>
+  Graduate of Yandex Practicum courses 01.2026
 </div>
 <div id="socials" align="center">
   <a href="https://t.me/codewithme_py">
@@ -11,7 +12,7 @@
   <a href="https://www.codewars.com/users/codewithme-py">
     <img src="https://www.codewars.com/users/codewithme-py/badges/large" alt="codewars">
   </a>
-</div>-->
+</div> -->
 <hr/>
 
 ### <img src="https://cdn-icons-png.flaticon.com/512/4091/4091514.png" width="33" height="33" alt="Server Icon"> Tech Stack:️
@@ -76,8 +77,8 @@
 | Project | Description | Technologies |
 |---------|-------------|--------------|
 | [LeetCode Solutions](https://github.com/codewithme-py/LeetCode_solutions) | Clean, typed, tested LeetCode solutions with auto-updated README, automated workflows, and development tools | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-3A96DD?logo=pytest&logoColor=white) ![Ruff](https://img.shields.io/badge/Ruff-000000?logo=ruff&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white) ![Makefile](https://img.shields.io/badge/Makefile-4D4D4D?logo=gnu&logoColor=white) |
-| [Homework Bot](https://github.com/codewithme-py/homework-bot) | Telegram bot for homework tracking | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-FF6B6B?logo=json&logoColor=white) |
+<!-- | [Homework Bot](https://github.com/codewithme-py/homework-bot) | Telegram bot for homework tracking | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-FF6B6B?logo=json&logoColor=white) |
 | [Blogicum](https://github.com/codewithme-py/django-sprint4) | Django blog platform with user auth | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) |
-| [Snake Game](https://github.com/codewithme-py/the_snake) | Classic game with PyGame | ![PyGame](https://img.shields.io/badge/PyGame-FF6B6B?logo=python&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-00B894?logo=object&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
+| [Snake Game](https://github.com/codewithme-py/the_snake) | Classic game with PyGame | ![PyGame](https://img.shields.io/badge/PyGame-FF6B6B?logo=python&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-00B894?logo=object&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | -->
 
 </div>
