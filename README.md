@@ -44,6 +44,7 @@
 <div align="center" style="background-color:#262738; border-radius:12px; padding:20px; display:inline-block; border: 2px solid white; margin:10px;">
   <h5>Cache</h5>
   <img src="https://img.shields.io/badge/Redis-✓-DC382D?logo=redis&logoColor=white" height="30" />&nbsp;
+  <img src="https://img.shields.io/badge/ARQ-✓-000000" height="30" />&nbsp;
   <img src="https://img.shields.io/badge/Lua-scripts-2C3E50?logo=lua&logoColor=white" height="30" />&nbsp;
 </div>
 
