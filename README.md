@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1>Hello 🌍, I'm Alex</h1>
   <h3>Junior Python Backend developer from Russia</h3>
-  Graduate of Yandex Practicum courses 01.2026
+  Graduate of <a href="https://disk.yandex.ru/i/o0_cAyAtGaAzgQ">Yandex Practicum</a> courses 01.2026
 </div>
 <div id="socials" align="center">
   <a href="https://t.me/codewithme_py">
