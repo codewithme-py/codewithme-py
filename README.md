@@ -88,9 +88,9 @@
 ### <img src="https://cdn-icons-png.flaticon.com/512/4397/4397570.png" width="33" height="33" alt="Graph Icon"> GitHub & LeetCode Analytics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=codewithme-py&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewithme-py&theme=tokyonight" />
+  <img height="250" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=codewithme-py&layout=compact&theme=tokyonight" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithme-py&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithme-py&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
