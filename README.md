@@ -57,6 +57,7 @@
 <div align="center" style="background-color:#262738; border-radius:12px; padding:20px; display:inline-block; border: 2px solid white; margin:10px;">
   <h5>Observability</h5>
   <img src="https://img.shields.io/badge/Prometheus-✓-E6522C?logo=prometheus&logoColor=white" height="30" />&nbsp;
+  <img src="https://img.shields.io/badge/Grafana-✓-F46800?logo=grafana&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/structlog-✓-000000" height="30" />&nbsp;
 </div>
 
