@@ -86,6 +86,22 @@
 
 <hr/>
 
+### <img src="https://cdn-icons-png.flaticon.com/512/3382/3382772.png" width="35" height="35" alt="Share Icon"> Jobs & Pet Projects
+
+<div align="center">
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [FairDrop](https://github.com/codewithme-py/FairDrop) | IN PROGRESS ... High-performance modular monolith for fair product distribution. Atomic inventory reservation (PostgreSQL FOR UPDATE), dual-layer rate limiting (Lua/Redis), and async background processing with ARQ. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) ![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white) ![Ruff](https://img.shields.io/badge/Ruff-000000?logo=ruff&logoColor=white) |
+| [LeetCode Solutions](https://github.com/codewithme-py/LeetCode_solutions) | Clean, typed, tested LeetCode solutions with auto-updated README, automated workflows, and development tools | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-3A96DD?logo=pytest&logoColor=white) ![Ruff](https://img.shields.io/badge/Ruff-000000?logo=ruff&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white) ![Makefile](https://img.shields.io/badge/Makefile-4D4D4D?logo=gnu&logoColor=white) |
+<!-- | [Homework Bot](https://github.com/codewithme-py/homework-bot) | Telegram bot for homework tracking | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-FF6B6B?logo=json&logoColor=white) |
+| [Blogicum](https://github.com/codewithme-py/django-sprint4) | Django blog platform with user auth | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) |
+| [Snake Game](https://github.com/codewithme-py/the_snake) | Classic game with PyGame | ![PyGame](https://img.shields.io/badge/PyGame-FF6B6B?logo=python&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-00B894?logo=object&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | -->
+
+</div>
+
+<hr/>
+
 ### <img src="https://cdn-icons-png.flaticon.com/512/4397/4397570.png" width="33" height="33" alt="Graph Icon"> GitHub & LeetCode Analytics
 
 <p align="center">
@@ -100,16 +116,3 @@
   </a>
 </p>
 
-### <img src="https://cdn-icons-png.flaticon.com/512/3382/3382772.png" width="35" height="35" alt="Share Icon"> Jobs & Pet Projects
-
-<div align="center">
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| [FairDrop](https://github.com/codewithme-py/FairDrop) | IN PROGRESS ... High-performance modular monolith for fair product distribution. Atomic inventory reservation (PostgreSQL FOR UPDATE), dual-layer rate limiting (Lua/Redis), and async background processing with ARQ. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) ![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white) ![Ruff](https://img.shields.io/badge/Ruff-000000?logo=ruff&logoColor=white) |
-| [LeetCode Solutions](https://github.com/codewithme-py/LeetCode_solutions) | Clean, typed, tested LeetCode solutions with auto-updated README, automated workflows, and development tools | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-3A96DD?logo=pytest&logoColor=white) ![Ruff](https://img.shields.io/badge/Ruff-000000?logo=ruff&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white) ![Makefile](https://img.shields.io/badge/Makefile-4D4D4D?logo=gnu&logoColor=white) |
-<!-- | [Homework Bot](https://github.com/codewithme-py/homework-bot) | Telegram bot for homework tracking | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-FF6B6B?logo=json&logoColor=white) |
-| [Blogicum](https://github.com/codewithme-py/django-sprint4) | Django blog platform with user auth | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) |
-| [Snake Game](https://github.com/codewithme-py/the_snake) | Classic game with PyGame | ![PyGame](https://img.shields.io/badge/PyGame-FF6B6B?logo=python&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-00B894?logo=object&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | -->
-
-</div>
