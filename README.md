@@ -7,6 +7,9 @@
   <a href="https://t.me/codewithme_py">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram">
   </a>
+  <a href="mailto:codewithme@ya.ru">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=yandex&logoColor=white" alt="email">
+  </a>
 </div>
 <!-- <div align="center">
   <a href="https://www.codewars.com/users/codewithme-py">
